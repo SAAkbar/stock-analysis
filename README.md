@@ -1,4 +1,4 @@
-# # Stock Analysis Using VBA
+# Stock Analysis Using VBA
 ## Purpose
 The goal for this project was to refactor existing code which analyses an entire dataset of stock the stock market for the years of 2017 and 2018 to determine which stock was worth investing with an optimal code.
 ## Results
